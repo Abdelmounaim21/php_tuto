@@ -25,7 +25,7 @@ if (isset($_POST['submit'])) {
   }
 }
 ?>
-<form action='control.php' method='POST'>
+<form action='' method='POST'>
 
 User Name:<input type='text' name='username'>
 </br>
